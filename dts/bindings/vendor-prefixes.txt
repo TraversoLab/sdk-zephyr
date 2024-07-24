@@ -11,6 +11,7 @@
 # <vendor-prefix><TAB><Full name of vendor>
 
 # zephyr-keep-sorted-start
+traverso    Traverso Lab
 96boards	96Boards
 aaeon	AAEON Technology Inc.
 abb	ABB
